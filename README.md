@@ -12,4 +12,4 @@
 <hr>
 <br>
 
-<p>Developer: Sergiy Pozydaev</p>
+<p>Developer: Sergiy Pozhydaev</p>
